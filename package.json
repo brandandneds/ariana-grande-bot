@@ -1,0 +1,14 @@
+{
+  "name": "alfiebot",
+  "version": "1.0.0",
+  "description": "alfies bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
